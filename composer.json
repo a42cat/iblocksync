@@ -1,5 +1,6 @@
 {
     "name": "a42cat/iblocksync",
+    "description": "package for synchronise iblock bitrix from model files",
     "license": "MIT",
     "autoload": {
         "psr-4": {
