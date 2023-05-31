@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "A42cat\\Iblocksync\\": "src/"
+            "A42cat\\Iblocksync\\": ""
         }
     },
     "authors": [
