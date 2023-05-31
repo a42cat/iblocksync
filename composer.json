@@ -1,0 +1,17 @@
+{
+    "name": "a42cat/iblocksync",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "A42cat\\Iblocksync\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "a42cat",
+            "email": "a42phantom@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
